@@ -1,2 +1,2 @@
 # tools
-simple tools for network scanning and gathering info
+simple tools for pentesting
